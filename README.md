@@ -8,7 +8,7 @@ The project focuses on predicting employee turnover within a company by analyzin
 **Project Phases:**
 
 1. **Data Preprocessing:**
-   - Conducted thorough data cleaning to handle missing values, outliers, and ensure data consistency.
+   - Conducted thorough data cleaning to handle missing values, and outliers, and ensure data consistency.
    - Employed preprocessing techniques suitable for categorical and numerical features.
 
 2. **Data Visualization and Exploratory Data Analysis (EDA):**
