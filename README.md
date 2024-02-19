@@ -1,5 +1,4 @@
-# 
-**Project: Employee Turnover Prediction - Plastic Elasticity of Demand Analysis**
+# **Project: Employee Turnover Prediction - Plastic Elasticity of Demand Analysis**
 
 **Objective:**
 The project focuses on predicting employee turnover within a company by analyzing various employee-related features. The dataset includes attributes such as 'satisfaction_level,' 'last_evaluation,' 'number_project,' 'average_monthly_hours,' 'time_spend_company,' 'Work_accident,' 'left,' 'promotion_last_5years,' 'sales,' and 'salary.' The goal is to employ machine learning models to forecast whether an employee is likely to stay or leave, enabling proactive HR strategies.
