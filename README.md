@@ -1,4 +1,4 @@
-# Employee-Turnover-Predictio
+# Employee-Turnover
 
 **Project: Employee Turnover Prediction - Plastic Elasticity of Demand Analysis**
 
